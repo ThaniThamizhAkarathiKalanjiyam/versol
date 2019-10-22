@@ -4,11 +4,11 @@
 baseurl: 
 url: https://thanithamizhakarathikalanjiyam.github.io/versol
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+title: அஃக
+subtitle: "வேர்சொற்கள்"
+description: "தமிழின் வேர்சொற்கள்"
+keywords: தமிழ், சொற்கள், வேர்சொற்கள்
+timezone: Asia/Calcutta
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
